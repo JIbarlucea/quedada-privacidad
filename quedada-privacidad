@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Política de Privacidad - Quedada</title>
+</head>
+<body>
+    <h1>Política de Privacidad - Quedada</h1>
+    <p>Última actualización: 14 de abril de 2025</p>
+    <p>Quedada es una aplicación para organizar eventos sociales, gestionar grupos y comunicarte con otros usuarios. Esta política explica cómo recopilamos, usamos y protegemos tus datos, conforme al Reglamento General de Protección de Datos (RGPD).</p>
+
+    <h2>1. Datos que recopilamos</h2>
+    <ul>
+        <li><b>Información personal</b>: Nombre y correo electrónico al registrarte.</li>
+        <li><b>Ubicación aproximada</b>: Para mostrar eventos cercanos (opcional).</li>
+        <li><b>Mensajes</b>: Chats dentro de la app para comunicación entre usuarios.</li>
+        <li><b>Eventos de calendario</b>: Si guardas eventos en tu calendario.</li>
+        <li><b>Contenido generado</b>: Eventos, agendas o grupos que creas.</li>
+        <li><b>ID de publicidad</b>: Para mostrar anuncios personalizados vía Google AdMob.</li>
+        <li><b>Datos de uso</b>: Interacciones (p. ej., clics) para analíticas.</li>
+        <li><b>Informes de fallos</b>: Datos anónimos para mejorar la app.</li>
+    </ul>
+
+    <h2>2. Cómo usamos tus datos</h2>
+    <p>Usamos los datos para:</p>
+    <ul>
+        <li>Gestionar tu cuenta, eventos, grupos y chats.</li>
+        <li>Mostrar eventos cercanos (si habilitas la ubicación).</li>
+        <li>Proporcionar anuncios personalizados vía Google AdMob.</li>
+        <li>Mejorar la app mediante analíticas y corrección de errores.</li>
+    </ul>
+
+    <h2>3. Compartir datos</h2>
+    <p>Compartimos datos con:</p>
+    <ul>
+        <li><b>Google AdMob</b>: ID de publicidad para anuncios (ver <a href="https://policies.google.com/privacy">política de Google</a>).</li>
+        <li>No compartimos datos personales con terceros sin tu consentimiento explícito.</li>
+    </ul>
+
+    <h2>4. Seguridad de los datos</h2>
+    <p>Usamos HTTPS para transferencias y medidas de seguridad para proteger tus datos.</p>
+
+    <h2>5. Tus derechos (RGPD)</h2>
+    <p>Puedes acceder, rectificar o eliminar tus datos desde la configuración de tu cuenta o contactando a <a href="mailto:soporte@quedada.com">soporte@quedada.com</a>. Procesamos solicitudes en 30 días.</p>
+
+    <h2>6. Eliminación de datos</h2>
+    <p>Solicita la eliminación en <a href="https://jibarlucea.github.io/quedada-eliminacion/">nuestra página de eliminación</a>.</p>
+
+    <h2>7. Menores</h2>
+    <p>Quedada está diseñada para mayores de 16 años o con consentimiento parental. No recopilamos datos de menores de 13 años intencionadamente.</p>
+
+    <h2>8. Contacto</h2>
+    <p>Envía preguntas a <a href="mailto:soporte@quedada.com">soporte@quedada.com</a>.</p>
+
+    <h2>9. Cambios</h2>
+    <p>Podemos actualizar esta política. Los cambios se publicarán aquí.</p>
+</body>
+</html>
